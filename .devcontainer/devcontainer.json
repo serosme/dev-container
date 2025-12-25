@@ -3,7 +3,7 @@
     "dockerfile": "Dockerfile"
   },
   "remoteUser": "node",
-  "workspaceFolder": "/home/node/workspace",
+  "workspaceFolder": "/home/node",
   "customizations": {
     "vscode": {
       "extensions": [
